@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Personium',
-  description: 'Page description',
+  description: 'It is the landing page for Personium Inc.',
 }
 
 import Hero from '@/components/hero'
