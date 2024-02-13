@@ -61,7 +61,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— I recently graduated from the University of Waterloo and have experience working with multiple tech companies, such as Wish and Uber. Additionally, I enjoy both spending time with cats and reading.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— I recently graduated from the University of Waterloo and have multiple experiences in different big techs. Additionally, I enjoy both spending time with cats and reading.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Sophie Ni</cite> - <a className="text-white hover:text-gray-200 transition duration-150 ease-in-out" href="#0">COO & Co-founder</a>
               </div>
