@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h3 mb-4">Express Your True Self Empowered by <br/> AI & Psychology</h2>
-            <p className="text-xl text-gray-400">We provide an evolutionary solution to quickly and precisely express your true feelings by building customized persona profiles</p>
+            <p className="text-xl text-gray-400">We provide an evolutionary solution to quickly and precisely express your true selives by building customized persona profiles</p>
           </div>
 
           {/* Items */}
@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Efficiency</h4>
-              <p className="text-lg text-gray-400 text-center">Leveraging AI, you can easily generate texts to express your self with minimal efforts</p>
+              <p className="text-lg text-gray-400 text-center">Empowered by AI, you can easily generate personalized contents to express your self with minimal efforts</p>
             </div>
 
             {/* 2nd item */}
@@ -32,7 +32,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Accuracy</h4>
-              <p className="text-lg text-gray-400 text-center">We analysis your personality to catch the nuances of your feelings to accurately predict your words</p>
+              <p className="text-lg text-gray-400 text-center">We analysis your personality to generate the content which is exactly what you want to say wihtout redundant context.</p>
             </div>
 
             {/* 3rd item */}
