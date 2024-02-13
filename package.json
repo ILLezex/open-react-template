@@ -1,7 +1,8 @@
 {
-  "name": "open-pro-next",
+  "name": "landing-page",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://illezex.github.io/open-react-template",
   "scripts": {
     "dev": "next dev",
     "predeploy": "npm run build",
