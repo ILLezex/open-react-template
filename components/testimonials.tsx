@@ -17,7 +17,7 @@ export default function Testimonials() {
           </div>
 
           {/* Testimonials */}
-          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-3 lg:gap-6 items-start lg:max-w-none">
+          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-2 lg:gap-6 items-start lg:max-w-none">
 
             {/* 1st testimonial */}
             <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up">
@@ -52,7 +52,7 @@ export default function Testimonials() {
             </div>
 
             {/* 3nd testimonial */}
-            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="200">
+            {/* <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="200">
               <div>
                 <div className="relative inline-flex flex-col mb-4">
                   <Image className="rounded-full" src={TestimonialImage03} width={48} height={48} alt="Testimonial 02" />
@@ -65,7 +65,7 @@ export default function Testimonials() {
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Sophie Ni</cite> - <a className="text-white hover:text-gray-200 transition duration-150 ease-in-out" href="#0">COO & Co-founder</a>
               </div>
-            </div>
+            </div> */}
           </div>
 
         </div>

@@ -15,11 +15,11 @@ export default function Header() {
           </div>
 
           {/* Desktop navigation */}
-          <nav className="hidden md:flex md:grow">
+          {/* <nav className="hidden md:flex md:grow"> */}
             {/* Desktop sign in links */}
-          </nav>
+          {/* </nav> */}
 
-          <MobileMenu />
+          {/* <MobileMenu /> */}
 
         </div>
       </div>
