@@ -2,7 +2,6 @@ import Image from 'next/image'
 
 import TestimonialImage01 from '@/public/images/samuel.png'
 import TestimonialImage02 from '@/public/images/grace.png'
-import TestimonialImage03 from '@/public/images/sophie.png'
 
 export default function Testimonials() {
   return (
@@ -17,7 +16,7 @@ export default function Testimonials() {
           </div>
 
           {/* Testimonials */}
-          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-2 lg:gap-6 items-start lg:max-w-none">
+          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-3 lg:gap-6 items-start lg:max-w-none">
 
             {/* 1st testimonial */}
             <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up">
@@ -31,7 +30,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— I recently graduated from University of Waterloo. I worked in varity of companies with different roles, reseracher, IOS engineer, backend engineer, etc. I like thinking and building. Beside on programming, I also like hisotry and literature. </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Samuel Feng</cite> - <a className="text-white hover:text-gray-200 transition duration-150 ease-in-out" href="#0">CEO & Co-founder</a>
+                <cite className="text-gray-200 not-italic">Samuel Feng</cite> - <a className="text-white hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Founder</a>
               </div>
             </div>
 
